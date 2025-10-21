@@ -8,7 +8,7 @@
   ],
   "license": "ISC",
   "author": "Ajith P M",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
